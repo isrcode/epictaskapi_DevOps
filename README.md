@@ -1,4 +1,4 @@
-# Projeto container na azure da materia de DevOps
+# 2º Check-point da matéria de DevOps
 ### 87564 - Gabriel Andrade Pereira
 ### 89347 - Israel Vieira Ribeiro
 ### 88072 - Lucas Alves dos Santos 
